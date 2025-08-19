@@ -87,17 +87,7 @@ export default function Login() {
             Don't have an account? <Link to="/register">Register here</Link>
           </Typography>
           
-          <Box sx={{ mt: 2, p: 2, bgcolor: 'grey.100', borderRadius: 1 }}>
-            <Typography variant="caption" display="block" gutterBottom>
-              <strong>Test Accounts:</strong>
-            </Typography>
-            <Typography variant="caption" display="block">
-              Admin: admin@leo.com / admin123
-            </Typography>
-            <Typography variant="caption" display="block">
-              (Create admin first using seed-admin endpoint)
-            </Typography>
-          </Box>
+          
         </CardContent>
       </Card>
     </Box>

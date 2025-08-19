@@ -122,7 +122,6 @@ export default function Register() {
             margin="normal"
           >
             <MenuItem value="EMPLOYEE">Employee</MenuItem>
-            <MenuItem value="MANAGER">Manager</MenuItem>
             <MenuItem value="ADMIN">Admin</MenuItem>
           </TextField>
 
